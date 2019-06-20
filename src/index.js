@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import Card from './Card.js';
+import Card from './Card.js.js';
 import * as serviceWorker from './serviceWorker';
 import 'tachyons';
 
